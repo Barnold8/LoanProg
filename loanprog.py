@@ -1,4 +1,3 @@
-from ast import Not
 from os.path import exists
 from datetime import date
 
